@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<planet>
+	<game_object>3</game_object>
+    <title>Mars</title>
+	<questions>
+		<question id="0">
+			<title>Seeing the 'Face on Mars' is a case of what human phenomenon?</title>
+			<answers>
+				<option correct="false" idOption="0">
+					<text>Parallelism</text>
+				</option>
+				<option correct="true" idOption="1">
+					<text>Pareidolia</text>
+					
+				</option>
+				<option correct="false" idOption="2">
+					<text>Paranoia</text>
+				</option>
+			</answers>
+		</question>
+		<question id="1">
+			<title>Which of these is true?</title>
+			<answers>
+				<option correct="false" idOption="0">
+					<text>Mars has no water</text>
+				</option>
+				<option correct="true" idOption="1">
+					<text>There are no solid signs of life on Mars</text>
+				</option>
+				<option correct="false" idOption="2">
+					<text>There is no weather on Mars</text>
+				</option>
+			</answers>
+		</question>
+		
+		<question id="2">
+			<title>Mars was the Roman god of what?</title>
+			<answers>
+				<option correct="true" idOption="0">
+					<text>War</text>
+				</option>
+				<option correct="false" idOption="1">
+					<text>Love</text>
+				</option>
+				<option correct="false" idOption="2">
+					<text>Death</text>
+				</option>
+			</answers>
+		</question>
+	</questions>
+</planet>

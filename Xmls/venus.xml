@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<planet>
+	<game_object>1</game_object>
+    <title>Venus</title>
+	<questions>
+		<question id="0">
+			<title>Which of these is a nickname for Venus?</title>
+			<answers>
+				<option correct="false" idOption="0">
+					<text>Morning star</text>
+				</option>
+				<option correct="false" idOption="1">
+					<text>Evening star</text>
+					
+				</option>
+				<option correct="true" idOption="2">
+					<text>Both morning and evening star</text>
+				</option>
+			</answers>
+		</question>
+		<question id="1">
+			<title>How hot does Venus get?</title>
+			<answers>
+				<option correct="true" idOption="0">
+					<text>870 degrees Fahrenheit</text>
+				</option>
+				<option correct="false" idOption="1">
+					<text>1,870 degrees Fahrenheit</text>
+				</option>
+				<option correct="false" idOption="2">
+					<text>87 degrees Fahrenheit</text>
+				</option>
+			</answers>
+		</question>
+		
+		<question id="2">
+			<title>What are the main components of Venus atmosphere?</title>
+			<answers>
+				<option correct="true" idOption="0">
+					<text>Carbon dioxide and sulfuric acid</text>
+				</option>
+				<option correct="false" idOption="1">
+					<text>Carbon dioxide and oxygen</text>
+				</option>
+				<option correct="false" idOption="2">
+					<text>Carbon dioxide and water</text>
+				</option>
+			</answers>
+		</question>
+	</questions>
+</planet>

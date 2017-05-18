@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<planet>
+	<game_object>2</game_object>
+    <title>Earth</title>
+	<questions>
+		<question id="0">
+			<title>What is true shape of the Earth?</title>
+			<answers>
+				<option correct="false" idOption="0">
+					<text>Flat</text>
+				</option>
+				<option correct="false" idOption="1">
+					<text>Sphere</text>
+					
+				</option>
+				<option correct="true" idOption="2">
+					<text>Oblate spheroid</text>
+				</option>
+			</answers>
+		</question>
+		<question id="1">
+			<title>Roughly how old is Earth?</title>
+			<answers>
+				<option correct="true" idOption="0">
+					<text>4.54 billion years </text>
+				</option>
+				<option correct="false" idOption="1">
+					<text>6.000 years</text>
+				</option>
+				<option correct="false" idOption="2">
+					<text>4.54 million years </text>
+				</option>
+			</answers>
+		</question>
+		
+		<question id="2">
+			<title>What is the deepest place in the ocean?</title>
+			<answers>
+				<option correct="true" idOption="0">
+					<text>The Mariana Trench</text>
+				</option>
+				<option correct="false" idOption="1">
+					<text>The Bermuda Triangle</text>
+				</option>
+				<option correct="false" idOption="2">
+					<text>The middle of the Atlantic Ocean</text>
+				</option>
+			</answers>
+		</question>
+	</questions>
+</planet>

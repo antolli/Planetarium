@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<planet>
+	<game_object>7</game_object>
+    <title>Neptune</title>
+	<questions>
+		<question id="0">
+			<title>What trace gas gives Neptune its brillant blue hue?</title>
+			<answers>
+				<option correct="true" idOption="0">
+					<text>Methane</text>
+				</option>
+				<option correct="false" idOption="1">
+					<text>Hydrogen</text>
+					
+				</option>
+				<option correct="false" idOption="2">
+					<text>Smurfonium</text>
+				</option>
+			</answers>
+		</question>
+		<question id="1">
+			<title>What was unusual about Neptune's discovery in 1846?</title>
+			<answers>
+				<option correct="false" idOption="0">
+					<text>It was found by a blind astronomer</text>
+				</option>
+				<option correct="true" idOption="1">
+					<text>It was the first planet whose existence was predicted by mathematical calculations</text>
+				</option>
+				<option correct="false" idOption="2">
+					<text>It was discovered on the day that 'Buffalo Bil' Cody was born</text>
+				</option>
+			</answers>
+		</question>
+		
+		<question id="2">
+			<title>How long does it take Neptune to complete one lap arond the sun?</title>
+			<answers>
+				<option correct="false" idOption="0">
+					<text>30 years</text>
+				</option>
+				<option correct="true" idOption="1">
+					<text>165 years</text>
+				</option>
+				<option correct="false" idOption="2">
+					<text>215 years</text>
+				</option>
+			</answers>
+		</question>
+	</questions>
+</planet>

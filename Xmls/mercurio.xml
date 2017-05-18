@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<planet>
+	<game_object>0</game_object>
+    <title>Mercury</title>
+	<questions>
+		<question id="0">
+			<title>Which of these temperatures occur on Mercury?</title>
+			<answers>
+				<option correct="false" idOption="0">
+					<text>840 Fahrenheit (450 C)</text>
+				</option>
+				<option correct="false" idOption="1">
+					<text>Minus 275 F (minus 170 C)</text>
+				</option>
+				<option correct="true" idOption="2">
+					<text>Both extremes</text>
+				</option>
+			</answers>
+		</question>
+		
+		<question id="1">
+			<title>How long is Mercury's year ?</title>
+			<answers>
+				<option correct="false" idOption="0">
+					<text>365 Earth days</text>
+				</option>
+				<option correct="true" idOption="1">
+					<text>88 Earth days</text>
+				</option>
+				<option correct="false" idOption="2">
+					<text>8 Earth days</text>
+				</option>
+			</answers>
+		</question>
+		
+		<question id="2">
+			<title>What is the air like on Mercury ?</title>
+			<answers>
+				<option correct="false" idOption="0">
+					<text>Similar to the atmosphere of Mars</text>
+				</option>
+				<option correct="true" idOption="1">
+					<text>There is a thin exosphere but no real atmosphere</text>
+				</option>
+				<option correct="false" idOption="2">
+					<text>Similar to the atmosphere of Earth</text>
+				</option>
+			</answers>
+		</question>
+	</questions>
+</planet>

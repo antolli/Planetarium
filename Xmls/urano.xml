@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<planet>
+	<game_object>6</game_object>
+    <title>Uranus</title>
+	<questions>
+		<question id="0">
+			<title>Uranus is invisible to the naked eye in the night sky?</title>
+			<answers>
+				<option correct="false" idOption="0">
+					<text>Somewhat</text>
+				</option>
+				<option correct="false" idOption="1">
+					<text>Yes</text>
+					
+				</option>
+				<option correct="true" idOption="2">
+					<text>No</text>
+				</option>
+			</answers>
+		</question>
+		<question id="1">
+			<title>Which gases make up most of Uranu's atmosphere?</title>
+			<answers>
+				<option correct="false" idOption="0">
+					<text>Helium and caborn dioxide</text>
+				</option>
+				<option correct="true" idOption="1">
+					<text>Hydrogen and helium</text>
+				</option>
+				<option correct="false" idOption="2">
+					<text>That's a personal question</text>
+				</option>
+			</answers>
+		</question>
+		
+		<question id="2">
+			<title>What type of planet is Uranus</title>
+			<answers>
+				<option correct="false" idOption="0">
+					<text>A terrestrial planet</text>
+				</option>
+				<option correct="true" idOption="1">
+					<text>A gas giant</text>
+				</option>
+				<option correct="false" idOption="2">
+					<text>Captain Planet</text>
+				</option>
+			</answers>
+		</question>
+	</questions>
+</planet>

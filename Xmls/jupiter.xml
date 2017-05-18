@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<planet>
+	<game_object>4</game_object>
+    <title>Jupiter</title>
+	<questions>
+		<question id="0">
+			<title>Which planets are Jupiter's closest neighbors in the solar system?</title>
+			<answers>
+				<option correct="false" idOption="0">
+					<text>Uranus and Saturn</text>
+				</option>
+				<option correct="true" idOption="1">
+					<text>Mars and Saturn</text>
+					
+				</option>
+				<option correct="false" idOption="2">
+					<text>Saturn and Neptune</text>
+				</option>
+			</answers>
+		</question>
+		<question id="1">
+			<title>The atmosphere of Jupiter is closest to what celestial body?</title>
+			<answers>
+				<option correct="false" idOption="0">
+					<text>Mars</text>
+				</option>
+				<option correct="true" idOption="1">
+					<text>The sun</text>
+				</option>
+				<option correct="false" idOption="2">
+					<text>Earth</text>
+				</option>
+			</answers>
+		</question>
+		
+		<question id="2">
+			<title>Jupiter's auroras are brightest in what wavelength of light?</title>
+			<answers>
+				<option correct="false" idOption="0">
+					<text>Optical</text>
+				</option>
+				<option correct="true" idOption="1">
+					<text>X-ray</text>
+				</option>
+				<option correct="false" idOption="2">
+					<text>Microwave</text>
+				</option>
+			</answers>
+		</question>
+	</questions>
+</planet>
